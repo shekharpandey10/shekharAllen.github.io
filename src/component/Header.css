@@ -1,0 +1,10 @@
+.nav-link:hover .dropdown {
+  display:flex;
+  flex-direction:column;
+  
+
+
+}
+/* .nav-item .dropdown div:hover {
+  background-color: #d02e2e;
+} */
